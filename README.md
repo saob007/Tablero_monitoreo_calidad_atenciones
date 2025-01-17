@@ -15,9 +15,7 @@ El jefe de calidad de la Personería Municipal de Manizales está interesado en 
 El conjunto de datos aportados por la entidad para accesibilidad pública, comprende un total de 2.028 registros de atención y 9 características asociadas a cada registro. Estas características incluyen información como el subárea de prestación del servicio, el nivel de satisfacción reportado por el usuario, la probabilidad de recomendación del servicio a terceros, la calificación asignada a la atención según la perspectiva del usuario, la postura del usuario frente a la información recibida, la percepción de rapidez de la atención, la postura frente al cumplimiento de expectativas y oportunidad de atención.
 El gráfico a continuación muestra la distribución de las atenciones según las subáreas de atención.
 
-
-
-
+<img src="assets/img/distribucion_atenciones.png" alt="Distribución de datos" style="display: block; margin: auto; max-width: 30%; height: auto;">
 
 ## Modelado y Evaluación
 
