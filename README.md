@@ -39,3 +39,4 @@ El producto visual resultante es un tablero de una única página, diseñado e i
 
 ## Conclusión y recomendaciones
 
+El tablero de control se consolidará como base para el seguimiento de las métricas relacionadas con la calidad del proceso de atención de la Personsería municipal de Manizales, permitiendo la extracción visual y fluida de insights para la toma de decisiones. En escenario fúturos de mejora para el tablero de control se recomienda incluir datos de la dimensión tiempo (fechas de los registros de atención) y generar KPIs con las métricas ya implementadas, con miras a establecer un seguimiento más claro de los objetivos organizacionales.
